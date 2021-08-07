@@ -1,0 +1,13 @@
+@charset 'UTF-8';
+
+// 0. Подключение первичных стилей
+@import "vendors/normalize";
+
+// 1. Подключение базовых функций и переменных
+@import "abstracts/abstracts";
+
+// 2. Подключение основных стилей
+@import "base/base";
+@import "base/fonts";
+@import "base/typography";
+@import "base/helpers";
