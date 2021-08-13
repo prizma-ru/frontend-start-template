@@ -1,0 +1,25 @@
+{
+  "name": "frontend-start-template",
+  "version": "1.0.0",
+  "description": "Frontend template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheglovofficial/frontend-start-template.git"
+  },
+  "author": "Danil Sheglov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheglovofficial/frontend-start-template/issues"
+  },
+  "homepage": "https://github.com/sheglovofficial/frontend-start-template#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-declaration-block-no-ignored-properties": "^2.4.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.20.1"
+  }
+}
